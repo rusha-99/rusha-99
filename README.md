@@ -1,5 +1,7 @@
+[![MasterHead](https://wallpaperforu.com/wp-content/uploads/2020/07/quote-wallpaper-200703121823482048x1152.jpg)]
 <h1 align="center">Hi 👋, I'm Tharusha Pathirana</h1>
 <h3 align="center">A passionate computer science undergraduate from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently studying at **University of Colombo School of Computing**
 
