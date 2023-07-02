@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently studying at **University of Colombo School of Computing**
 
-- 🌱I’m currently working on a project called BODO, which will facilitate a hostel booking and management system for **undergraduates** and **professionals.**
+- 🌱I am currently working on eQuor, an innovative project that aims to revolutionize attendance tracking and promote active engagement within lectures
+
 
 - 📫 How to reach me **tharushapathirana07@gmail.com**
 
