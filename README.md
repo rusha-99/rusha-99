@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tharusha pathirana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha pathirana" height="30" width="40" /></a>
-<a href="https://fb.com/tharusha pathirana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha pathirana" height="30" width="40" /></a>
-<a href="https://instagram.com/tharu__pathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharu__pathi" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tharusha-pathirana-81211519b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha pathirana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tharusha.pathirana.5?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha pathirana" height="30" width="40" /></a>
+<a href="https://instagram.com/tharu__pathi?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharu__pathi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
