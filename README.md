@@ -2,10 +2,7 @@
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently studying at **University of Colombo School of Computing**
-
-- 🌱I am currently working on eQuor, an innovative project that aims to revolutionize attendance tracking and promote active engagement within lectures
-
+- 🔭**In order to be irreplaceable, one must always be different.**
 
 - 📫 How to reach me **tharushapathirana07@gmail.com**
 
